@@ -1,6 +1,4 @@
-**Database Name: prmsdb**
-
-**Developed by Shahriar Khan Fahim**
+**Database Name: maindatabase**
 
 **Recommended PHP Version 5.6.3 and 7.4.12**
 
@@ -17,9 +15,6 @@ Username: 11DR
 Password: password
 
 **Patient Login**
-
-Username: 69P
-Password: password
 
 Username: 11P
 Password: password
